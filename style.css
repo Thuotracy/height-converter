@@ -16,7 +16,7 @@ html{
 
 #input{
     height: 25px;
-    width: 250px;
+    width: 270px;
     grid-column-start: 2;
     grid-column-end: 4;
     justify-self: center;
@@ -30,25 +30,46 @@ html{
     grid-column-end: 3;
     grid-row-start: 2;
     grid-row-end: 2;
+    position: relative;
+    left: 13px;
 }
 
 #feet{
     height: 25px;
-    width: 125px;
+    width: 126px;
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 2;
     grid-row-end: 2;
 }
 
+#btn1{
+    display: flex;
+    justify-content:space-around;
+    justify-content: space-between;
+    padding: 3px; 
+    position: absolute;
+    top: 80px;
+    left: 175px;
+}
+
+#btn2{
+    display: flex;
+    justify-content:space-around;
+    justify-content: space-between;
+    padding: 3px; 
+    position: absolute;
+    top: 80px;
+    left: 330px;
+}
 
 #output{
     height: 25px;
-    width: 250px;
+    width: 270px;
     grid-column-start: 2;
     grid-column-end: 4;
     grid-row-start: 3;
     grid-row-end: 3;
     justify-self: center;
-    align-self: center;
+    /* align-self: center; */
 }
