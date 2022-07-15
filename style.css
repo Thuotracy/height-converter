@@ -21,10 +21,11 @@ html{
     grid-column-end: 4;
     justify-self: center;
     align-self: center;
+    border: 2px solid black;
 }
 
 #meter{
-    height: 25px;
+    height: 30px;
     width: 126px;
     grid-column-start: 2;
     grid-column-end: 3;
@@ -32,15 +33,21 @@ html{
     grid-row-end: 2;
     position: relative;
     left: 13px;
+    color: fuchsia;
+    background-color: black;
+    border: 2px dotted fuchsia;
 }
 
 #feet{
-    height: 25px;
+    height: 30px;
     width: 126px;
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 2;
     grid-row-end: 2;
+    color: fuchsia;
+    background-color: black;
+    border: 2px dotted fuchsia;
 }
 
 #btn1{
@@ -72,4 +79,5 @@ html{
     grid-row-end: 3;
     justify-self: center;
     /* align-self: center; */
+    border: 2px solid black;
 }
