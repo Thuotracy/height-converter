@@ -26,7 +26,7 @@ html{
 
 #meter{
     height: 25px;
-    width: 125px;
+    width: 126px;
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 2;
@@ -48,6 +48,6 @@ html{
     width: 250px;
     grid-column-start: 2;
     grid-column-end: 4;
-    grid-row-start: 2;
-    grid-row-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 3;
 }
