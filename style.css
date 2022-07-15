@@ -21,7 +21,6 @@ html{
     grid-column-end: 4;
     justify-self: center;
     align-self: center;
-
 }
 
 #meter{
@@ -50,4 +49,6 @@ html{
     grid-column-end: 4;
     grid-row-start: 3;
     grid-row-end: 3;
+    justify-self: center;
+    align-self: center;
 }
