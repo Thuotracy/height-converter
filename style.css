@@ -3,6 +3,13 @@ html{
     height: 100%;
 }
 
+h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: 2px underline fuchsia;
+}
+
 #container{
     height: 200px;
     width: 550px;
@@ -12,6 +19,9 @@ html{
     background-color: fuchsia;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 50px 1fr;
+    position: absolute;
+    top: 150px;
+    left: 350px;
 }
 
 #input{
