@@ -10,4 +10,6 @@ html{
     margin: 0 auto;
     border: 5px solid ;
     background-color: fuchsia;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 50px 1fr;
 }
