@@ -31,11 +31,12 @@ html{
     grid-column-end: 3;
     grid-row-start: 2;
     grid-row-end: 2;
-    position: relative;
-    left: 13px;
-    color: fuchsia;
+    /* position: relative;
+    left: 13px; */
+    color: white;
     background-color: black;
     border: 2px dotted fuchsia;
+    justify-self: center;
 }
 
 #feet{
@@ -45,19 +46,20 @@ html{
     grid-column-end: 4;
     grid-row-start: 2;
     grid-row-end: 2;
-    color: fuchsia;
+    color: white;
     background-color: black;
     border: 2px dotted fuchsia;
+    justify-self: center;
 }
 
-#btn1{
+/* #btn1{
     display: flex;
     justify-content:space-around;
     justify-content: space-between;
     padding: 3px; 
     position: absolute;
     top: 80px;
-    left: 175px;
+    left: 499px;
 }
 
 #btn2{
@@ -67,8 +69,8 @@ html{
     padding: 3px; 
     position: absolute;
     top: 80px;
-    left: 330px;
-}
+    left: 653px;
+} */
 
 #output{
     height: 25px;
