@@ -19,6 +19,7 @@ html{
     width: 250px;
     grid-column-start: 2;
     grid-column-end: 4;
+    
 }
 
 #meter{
@@ -43,4 +44,8 @@ html{
 #output{
     height: 25px;
     width: 250px;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 2;
 }
