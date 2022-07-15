@@ -8,5 +8,5 @@ meterbtn.addEventListener('click', function(){
 
 feetbtn.addEventListener('click', function(){
     let input = document.getElementById('input').value; 
-    document.getElementById('output').value = input * 3.281 + " Meter";
+    document.getElementById('output').value = input * 3.281 + " Feet";
 })
