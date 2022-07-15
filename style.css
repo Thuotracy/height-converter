@@ -19,7 +19,9 @@ html{
     width: 250px;
     grid-column-start: 2;
     grid-column-end: 4;
-    
+    justify-self: center;
+    align-self: center;
+
 }
 
 #meter{
