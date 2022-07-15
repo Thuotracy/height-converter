@@ -13,3 +13,8 @@ html{
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 50px 1fr;
 }
+
+#input{
+    height: 25px;
+    width: 250px;
+}
