@@ -1,2 +1,15 @@
-# height-converter
-This is a website that converts a number to either feet or meters.
+# HEIGHT CONVERTER
+
+## Description
+A Height converter app
+
+## Live link
+https://thuotracy.github.io/happy-christmas/
+
+## Technologies Used
+HTML
+CSS
+JAVASCRIPT
+
+## Support and contact details
+Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com.
