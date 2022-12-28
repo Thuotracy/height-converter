@@ -4,7 +4,7 @@
 A Height converter app
 
 ## Live link
-https://thuotracy.github.io/happy-christmas/
+https://thuotracy.github.io/height-converter/
 
 ## Technologies Used
 HTML
