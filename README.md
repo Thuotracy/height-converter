@@ -2,8 +2,8 @@
 
 ## Technologies Used
 * HTML
-CSS
-JAVASCRIPT
+* CSS
+* JAVASCRIPT
 
 ## Description
 A Height converter app
