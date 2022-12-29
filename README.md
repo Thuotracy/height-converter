@@ -1,7 +1,7 @@
 # HEIGHT CONVERTER
 
 ## Technologies Used
-HTML
+* HTML
 CSS
 JAVASCRIPT
 
